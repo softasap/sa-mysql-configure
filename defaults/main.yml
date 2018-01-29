@@ -1,0 +1,8 @@
+---
+# defaults file for sa-mysql-configure
+
+  role_dir: "{{role_path}}"
+
+  mysql_root_user: root
+  mysql_root_password: devroot
+

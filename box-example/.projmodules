@@ -1,0 +1,3 @@
+[submodule "roles/sa-mysql-configure"]
+        path = roles/sa-mysql-configure
+        url = https://github.com/softasap/sa-mysql-configure.git

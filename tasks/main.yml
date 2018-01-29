@@ -1,0 +1,5 @@
+---
+# tasks file for sa-mysql-configure
+
+  - include: tasks_dbs_configure.yml
+
